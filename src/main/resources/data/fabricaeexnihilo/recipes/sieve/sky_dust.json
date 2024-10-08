@@ -1,0 +1,30 @@
+{
+  "type": "fabricaeexnihilo:sieve",
+  "input": {
+    "item": "fabricaeexnihilo:dust"
+  },
+  "result": {
+    "count": 1,
+    "item": "ae2:sky_dust"
+  },
+  "rolls": {
+    "fabricaeexnihilo:flint_mesh": [
+      0.1
+    ],
+    "fabricaeexnihilo:iron_mesh": [
+      0.1,
+      0,2
+    ],
+    "fabricaeexnihilo:diamond_mesh": [
+      0.1,
+      0.2,
+      0.3
+    ],
+    "fabricaeexnihilo:netherite_mesh": [
+      0.1,
+      0.2,
+      0.3
+    ]
+  },
+  "waterlogged": false
+}

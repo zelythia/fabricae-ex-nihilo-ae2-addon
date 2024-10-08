@@ -1,0 +1,19 @@
+{
+  "type": "fabricaeexnihilo:sieve",
+  "input": {
+    "item": "fabricaeexnihilo:crushed_sky_stone"
+  },
+  "result": {
+    "count": 1,
+    "item": "ae2:charged_certus_quartz_crystal"
+  },
+  "rolls": {
+    "fabricaeexnihilo:diamond_mesh": [
+      0.1
+    ],
+    "fabricaeexnihilo:netherite_mesh": [
+      0.15
+    ]
+  },
+  "waterlogged": false
+}

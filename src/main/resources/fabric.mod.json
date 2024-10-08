@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "fabricaeexnihilo-ae2addon",
+	"version": "${version}",
+	"name": "FabricaeExNihilo AE2 Addon",
+	"description": "This is an addon for FabricaeExNihilo that adds progression for Applied Energistics 2",
+	"authors": [
+		"zelythia/lukas"
+	],
+	"contact": {
+		"sources": "https://github.com/zelythia/FabricaeExNihiloAe2Addon"
+	},
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"fabricaeexnihilo:api": [
+          "net.zelythia.FENAE2Addon"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.15.6",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"ae2": "*",
+		"fabricaeexnihilo": "*"
+	}
+}
